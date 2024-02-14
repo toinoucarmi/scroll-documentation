@@ -23,4 +23,4 @@ For now, we will defer to Ethereum.org's excellent [Translation Style Guide](htt
 
 ### Not familiar with Git?
 
-If you don't want to worry about all this Git stuff, contact a team member or community moderator on the [Scroll Discord](https://discord.gg/scroll). We'd be happy to point you at the original file to translate and suggest an online text editor (like [HackMD](https://hackmd.io/)) for sharing your results. We'll take it from there.
+If you don't want to worry about all this Git stuff, contact a team member or community moderator on the [Scroll Discord](https://discord.gg/scroll). We'd be happy to point you at the original file to translate and suggest an online text editor (like [HackMD](https://hackmd.io/)) for sharing your results. We'll take it from there
